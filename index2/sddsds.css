@@ -1,0 +1,8 @@
+body {
+    background: rgb(48,27,137);
+    background: linear-gradient(274deg, rgba(48,27,137,1) 0%, rgba(64,64,163,1) 43%, rgba(224,240,244,1) 100%); 
+}
+ul li {
+    display: flex;
+}
+/*ого*/
